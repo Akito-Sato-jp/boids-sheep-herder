@@ -1,3 +1,3 @@
 # boids-sheep-herder
-## 🎮 遊び方
-Windows環境であれば、以下のリンクから実行ファイルをダウンロードしてすぐにプレイできます。
+### 🎥 動作デモ
+![ゲームの動作](./assets/game-demo.gif)
